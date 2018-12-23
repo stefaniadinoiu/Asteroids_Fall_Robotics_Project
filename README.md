@@ -1,5 +1,5 @@
-# Asteroids_rain_robotica
-Asteroids rain is an 8x8 matrix game in which you have to avoid the falling asteriods.
+# Asteroids_fall_robotica
+Asteroids fall is an 8x8 matrix game in which you have to avoid the falling asteriods.
 
 ## Components
 
